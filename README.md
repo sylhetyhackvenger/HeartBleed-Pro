@@ -58,8 +58,8 @@
 sudo apt update
 sudo apt install python3 python3-pip git -y
 
-git clone https://github.com/yourusername/heartbleed-pro.git
-cd heartbleed-pro
+git clone https://github.com/sylhetyhackvenger/HeartBleed-Pro
+cd HeartBleed-Pro
 
 pip install -r requirements.txt
 
